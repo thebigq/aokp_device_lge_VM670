@@ -1,0 +1,1 @@
+add_lunch_combo aokp_VM670-userdebug
